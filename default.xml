@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote name="github" fetch="git@github.com:ImpalaToGo/" />
+  <project path="ImpalaToGo" name="ImpalaToGo.git" remote="github" revision="master"/>
+
+</manifest>
