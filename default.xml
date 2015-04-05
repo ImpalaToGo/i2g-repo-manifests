@@ -8,5 +8,5 @@
   <project path="ImpalaToGo" name="ImpalaToGo/ImpalaToGo.git" revision="merged-impala-cdh5.5.0-trunk"/>
   <project path="impala2go.info" name="ImpalaToGo/impalatogo.github.io.git"/>
   <project path="ImpalaToGo.wiki" name="ImpalaToGo/ImpalaToGo.wiki.git"/>
-  <project path="ImpalaToGo/thirdparty/tachyon" name="amplab/tachyon.git" />
+  <project path="ImpalaToGo/thirdparty/tachyon" name="ImpalaToGo/tachyon.git" />
 </manifest>
