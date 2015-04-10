@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote fetch="https://github.com/" name="github"/>
+  
+  <default remote="github" revision="refs/heads/master" sync-j="4"/>
+  
+  <project name="ImpalaToGo/ImpalaToGo.git" path="ImpalaToGo" revision="179ec74e75dd9173cd88bed2f4403fa1e8495ae7" upstream="refs/heads/merged-impala-cdh5.5.0-trunk"/>
+  <project name="ImpalaToGo/ImpalaToGo.wiki.git" path="ImpalaToGo.wiki" revision="b9e5f29a53cfcabc049faa9cb4d8b92a4bf0f61c" upstream="refs/heads/master"/>
+  <project name="ImpalaToGo/i2g-controller" path="i2g-controller" revision="efe38ff40057d049bd330ea0adf6b7d5ba488ab2" upstream="refs/heads/master"/>
+  <project name="ImpalaToGo/impalatogo.github.io.git" path="impala2go.info" revision="bbbfc804a48864c915fc5a905d261cd028080623" upstream="refs/heads/master"/>
+</manifest>
