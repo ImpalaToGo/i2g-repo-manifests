@@ -8,6 +8,6 @@
   <project path="ImpalaToGo" name="ImpalaToGo/ImpalaToGo.git" revision="refs/heads/generic-tachyon"/>
   <project path="impala2go.info" name="ImpalaToGo/impalatogo.github.io.git"/>
   <project path="ImpalaToGo.wiki" name="ImpalaToGo/ImpalaToGo.wiki.git"/>
-  <project path="ImpalaToGo/thirdparty/tachyon" name="ImpalaToGo/tachyon.git" />
+  <project path="ImpalaToGo/thirdparty/tachyon" name="ImpalaToGo/tachyon.git" revision="refs/heads/testing" />
   <project path="i2g-controller" name="ImpalaToGo/i2g-controller" />
 </manifest>
