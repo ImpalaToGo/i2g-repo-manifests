@@ -5,7 +5,7 @@
   <default revision="refs/heads/master"
            remote="github"
            sync-j="4" />
-  <project path="ImpalaToGo" name="ImpalaToGo/ImpalaToGo.git" revision="refs/heads/nested-support-dev"/>
+  <project path="ImpalaToGo" name="ImpalaToGo/ImpalaToGo.git" revision="refs/heads/nested-support"/>
   <project path="impala2go.info" name="ImpalaToGo/impalatogo.github.io.git"/>
   <project path="ImpalaToGo.wiki" name="ImpalaToGo/ImpalaToGo.wiki.git"/>
   <project path="ImpalaToGo/thirdparty/tachyon" name="ImpalaToGo/tachyon.git" revision="refs/heads/master" />
