@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <remote name="github" fetch="https://github.com/" />
-
   <default revision="refs/heads/master"
            remote="github"
            sync-j="4" />
-  <project path="ImpalaToGo" name="ImpalaToGo/ImpalaToGo.git" revision="refs/heads/UDDTE"/>
+  <project path="ImpalaToGo" name="ImpalaToGo/ImpalaToGo.git" revision="refs/heads/master"/>
+  <project path="ImpalaToGo/thirdparty/udtf" name="ImpalaToGo/UDTF.git" />
   <project path="impala2go.info" name="ImpalaToGo/impalatogo.github.io.git"/>
   <project path="ImpalaToGo.wiki" name="ImpalaToGo/ImpalaToGo.wiki.git"/>
   <project path="ImpalaToGo/thirdparty/tachyon" name="ImpalaToGo/tachyon.git" revision="refs/heads/master" />
