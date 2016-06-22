@@ -10,6 +10,5 @@
   <project path="ImpalaToGo.wiki" name="ImpalaToGo/ImpalaToGo.wiki.git"/>
   <project path="ImpalaToGo/thirdparty/tachyon" name="ImpalaToGo/tachyon.git" revision="refs/heads/master" />
   <project path="i2g-controller" name="ImpalaToGo/i2g-controller" />
-  <project path="JSONdiscoverer" name="ImpalaToGo/json-discoverer" />
   <project path="ImpalaToGo/thirdparty/hive" name="cloudera/hive.git" revision="refs/heads/cdh5-1.1.0_5.5.0" />
 </manifest>
